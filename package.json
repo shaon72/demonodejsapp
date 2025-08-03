@@ -2,7 +2,6 @@
   "name": "demonodejsapp",
   "type": "module",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "build": "tsc",
     "start": "nodemon dist/server.ts",
